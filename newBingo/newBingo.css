@@ -1,0 +1,33 @@
+table{
+    background-color: black;
+    border: 1px solid black;
+    width: 200px;
+    height : 200px
+    
+
+}
+tr,td{
+    background-color: rgb(176, 229, 247);
+    width: 10px;
+    height : 10px;
+    border-collapse: seperate ;
+    align-items: center;
+}
+
+p{
+    width: 200px;
+    height: 50px;
+    border: 2px;
+    text-align: center;
+    border-collapse: collapse ;
+}
+body{
+    background-color: rgb(234, 228, 229);
+    margin-top: 5%;
+    margin-left: 40%;
+}
+h1{
+    color: rgb(221, 109, 147);
+    margin-bottom: 5%;
+    
+}
